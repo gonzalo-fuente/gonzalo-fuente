@@ -6,11 +6,17 @@
 
 - 🌱 I’m skilling up with:
 
-    🧑🏻‍🏫 <img src="FreeCodeCamp_logo.svg.png" alt="fcc logo" width="160">
-   - Currently ➡️ JavaScript Algorithms and Data Structures.
-   - Finished ➡️ Responsive Web Design. [Link to Certification!](https://www.freecodecamp.org/certification/gonzalo_a_fuente/responsive-web-design)
+  🧑🏻‍🏫 <img src="FreeCodeCamp_logo.svg.png" alt="fcc logo" width="160">
 
-      <img src="RWD_fcc_certificate.png" alt="fcc logo" width="360">
+  - Currently ➡️ Front End Development Libraries.
+  - Finished ➡️ JavaScript Algorithms and Data Structures. [Link to Certification!](https://www.freecodecamp.org/certification/gonzalo_a_fuente/javascript-algorithms-and-data-structures)
 
-    🧑🏻‍🏫 <img src="cisco_netacad_logo.png" alt="cisco netacad logo" width="140">
-   - Currently ➡️ PCAP - Programming Essentials In Python.
+     <img src="JADS_fcc_certificate.png" alt="fcc JADS certificate" width="360">
+
+  - Finished ➡️ Responsive Web Design. [Link to Certification!](https://www.freecodecamp.org/certification/gonzalo_a_fuente/responsive-web-design)
+
+     <img src="RWD_fcc_certificate.png" alt="fcc RWD certificate" width="360">
+
+  🧑🏻‍🏫 <img src="cisco_netacad_logo.png" alt="cisco netacad logo" width="140">
+
+  - Currently ➡️ PCAP - Programming Essentials In Python.
