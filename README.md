@@ -8,7 +8,12 @@
 
   🧑🏻‍🏫 <img src="FreeCodeCamp_logo.svg.png" alt="fcc logo" width="160">
 
-  - Currently ➡️ Front End Development Libraries.
+  - Currently ➡️ Back End Development and APIs.
+  
+  - Finished ➡️ Front End Development Libraries. [Link to Certification!](https://www.freecodecamp.org/certification/gonzalo_a_fuente/front-end-development-libraries)
+ 
+     <img src="FEDL_certificate.png" alt="fcc FEDL certificate" width="360">
+     
   - Finished ➡️ JavaScript Algorithms and Data Structures. [Link to Certification!](https://www.freecodecamp.org/certification/gonzalo_a_fuente/javascript-algorithms-and-data-structures)
 
      <img src="JADS_fcc_certificate.png" alt="fcc JADS certificate" width="360">
